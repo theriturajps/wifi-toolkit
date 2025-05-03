@@ -1,10 +1,10 @@
 ## New Features Added
-✅ Auto-Log Captured Passwords (Saves to creds.txt)
-✅ MAC Address Spoofing (Avoid detection)
-✅ Deauthentication Attack (Force devices to reconnect)
-✅ Auto-Stop After X Minutes (Prevent infinite runtime)
-✅ Fake Captive Portal (Phishing page simulation)
-✅ Randomized BSSID (Makes fake AP look more legit)
+- Auto-Log Captured Passwords (Saves to creds.txt)
+- MAC Address Spoofing (Avoid detection)
+- Deauthentication Attack (Force devices to reconnect)
+- Auto-Stop After X Minutes (Prevent infinite runtime)
+- Fake Captive Portal (Phishing page simulation)
+- Randomized BSSID (Makes fake AP look more legit)
 
 
 ## 🔥 New Features Explained
