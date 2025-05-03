@@ -1,11 +1,11 @@
-This enhanced script creates a fake Wi-Fi network with a captive portal that mimics a login page. When users connect, they're redirected to a fake login page. Submitted credentials are captured and displayed in real-time.
+Complete version that combines all previous features:
 
-# Key Features
-- Fake Wi-Fi Network Creation
-- Automatic Captive Portal (HTML login page)
-- Real-time Credential Capture (Terminal + creds.txt)
-- Success Page After Login
-- MAC Spoofing & Deauth Attack Options
+- Fake Wi-Fi creation (single/bulk)
+- MAC address spoofing
+- Deauthentication attacks
+- `NEW`: Full captive portal (login page + credential harvesting)
+- Real-time monitoring & auto-logging
+
 
 ## 🔥 Complete Feature Set
 
